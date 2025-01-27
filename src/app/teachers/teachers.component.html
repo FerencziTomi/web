@@ -1,0 +1,11 @@
+<h3>Tanárok listája:</h3>
+
+<mat-list *ngFor="let item of teachersList">
+    <mat-list-item>
+        <span>
+            <div *ngIf="item.title === ''">{{ item.familyName }} {{ item.givenName }}</div>
+            <div *ngIf="item.title === 'dr.'">{{ item.title }} {{ item.familyName }} {{ item.givenName }}</div>
+            <div *ngIf="item.title === 'professzor'">{{ item.familyName }} {{ item.givenName }} {{ item.title }}</div>
+        </span>
+    </mat-list-item>
+</mat-list>

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "email": "dr.kovacs.maria@example.com",
+    "phone": "+36 30 123 4567",
+    "title": "dr.",
+    "familyName": "Kovács",
+    "givenName": "Mária",
+    "birthDate": "1978-04-12",
+    "webside": "https://kovacsmaria.hu",
+    "password": "password1"
+  },
+  {
+    "id": 2,
+    "email": "prof.szabo.laszlo@example.com",
+    "phone": "+36 30 234 5678",
+    "title": "professzor",
+    "familyName": "Szabó",
+    "givenName": "László",
+    "birthDate": "1965-07-19",
+    "webside": "https://szabolaszlo.hu",
+    "password": "password2"
+  },
+  {
+    "id": 3,
+    "email": "kiss.aniko@example.com",
+    "phone": "+36 70 345 6789",
+    "title": "",
+    "familyName": "Kiss",
+    "givenName": "Anikó",
+    "birthDate": "1980-01-30",
+    "webside": "",
+    "password": "password3"
+  },
+  {
+    "id": 4,
+    "email": "nagy.istvan@example.com",
+    "phone": "+36 20 456 7890",
+    "title": "dr.",
+    "familyName": "Nagy",
+    "givenName": "István",
+    "birthDate": "1972-09-15",
+    "webside": "https://nagyistvan.hu",
+    "password": "password4"
+  },
+  {
+    "id": 5,
+    "email": "toth.zsuzsanna@example.com",
+    "phone": "+36 30 567 8901",
+    "title": "",
+    "familyName": "Tóth",
+    "givenName": "Zsuzsanna",
+    "birthDate": "1969-03-22",
+    "webside": "",
+    "password": "password5"
+  },
+  {
+    "id": 6,
+    "email": "balogh.gabor@example.com",
+    "phone": "+36 70 678 9012",
+    "title": "dr.",
+    "familyName": "Balogh",
+    "givenName": "Gábor",
+    "birthDate": "1985-12-01",
+    "webside": "https://baloghgabor.hu",
+    "password": "password6"
+  },
+  {
+    "id": 7,
+    "email": "horvath.judit@example.com",
+    "phone": "+36 20 789 0123",
+    "title": "dr.",
+    "familyName": "Horváth",
+    "givenName": "Judit",
+    "birthDate": "1976-05-08",
+    "webside": "",
+    "password": "password7"
+  },
+  {
+    "id": 8,
+    "email": "feher.peter@example.com",
+    "phone": "+36 30 890 1234",
+    "title": "",
+    "familyName": "Fehér",
+    "givenName": "Péter",
+    "birthDate": "1960-11-25",
+    "webside": "https://feherpeter.hu",
+    "password": "password8"
+  },
+  {
+    "id": 9,
+    "email": "farkas.katalin@example.com",
+    "phone": "+36 70 901 2345",
+    "title": "",
+    "familyName": "Farkas",
+    "givenName": "Katalin",
+    "birthDate": "1983-08-14",
+    "webside": "",
+    "password": "password9"
+  },
+  {
+    "id": 10,
+    "email": "varga.tamas@example.com",
+    "phone": "+36 20 012 3456",
+    "title": "professzor",
+    "familyName": "Varga",
+    "givenName": "Tamás",
+    "birthDate": "1958-02-10",
+    "webside": "https://vargatamas.hu",
+    "password": "password10"
+  }
+]

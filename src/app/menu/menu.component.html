@@ -1,0 +1,14 @@
+<app-title-line></app-title-line>
+<mat-sidenav-container class="menu-container">
+    <mat-sidenav mode="side" opened>
+        <mat-nav-list>
+            <button mat-button routerLink="/main">Főoldal</button>
+            <button mat-button routerLink="/teachers">Tanárok</button>
+            <button mat-button routerLink="/students">Hallgatók</button>
+        </mat-nav-list>
+    </mat-sidenav>
+    
+    <mat-sidenav-content id="content">
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
+</mat-sidenav-container>

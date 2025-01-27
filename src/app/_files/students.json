@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "email": "nagy.anna@student.example.com",
+    "phone": "+36 30 123 4567",
+    "familyName": "Nagy",
+    "givenName": "Anna",
+    "birthDate": "2000-05-14"
+  },
+  {
+    "id": 2,
+    "email": "kovacs.marton@student.example.com",
+    "phone": "+36 70 234 5678",
+    "familyName": "Kovács",
+    "givenName": "Márton",
+    "birthDate": "1998-11-03"
+  },
+  {
+    "id": 3,
+    "email": "toth.julia@student.example.com",
+    "phone": "+36 20 345 6789",
+    "familyName": "Tóth",
+    "givenName": "Júlia",
+    "birthDate": "2001-07-22"
+  },
+  {
+    "id": 4,
+    "email": "szabo.istvan@student.example.com",
+    "phone": "+36 30 456 7890",
+    "familyName": "Szabó",
+    "givenName": "István",
+    "birthDate": "1999-03-15"
+  },
+  {
+    "id": 5,
+    "email": "kiss.zsuzsanna@student.example.com",
+    "phone": "+36 70 567 8901",
+    "familyName": "Kiss",
+    "givenName": "Zsuzsanna",
+    "birthDate": "2000-12-30"
+  },
+  {
+    "id": 6,
+    "email": "varga.gergely@student.example.com",
+    "phone": "+36 20 678 9012",
+    "familyName": "Varga",
+    "givenName": "Gergely",
+    "birthDate": "1997-08-11"
+  },
+  {
+    "id": 7,
+    "email": "horvath.eva@student.example.com",
+    "phone": "+36 30 789 0123",
+    "familyName": "Horváth",
+    "givenName": "Éva",
+    "birthDate": "2002-01-09"
+  },
+  {
+    "id": 8,
+    "email": "balogh.peter@student.example.com",
+    "phone": "+36 70 890 1234",
+    "familyName": "Balogh",
+    "givenName": "Péter",
+    "birthDate": "1998-06-05"
+  },
+  {
+    "id": 9,
+    "email": "feher.diana@student.example.com",
+    "phone": "+36 20 901 2345",
+    "familyName": "Fehér",
+    "givenName": "Diána",
+    "birthDate": "2001-10-18"
+  },
+  {
+    "id": 10,
+    "email": "farkas.adam@student.example.com",
+    "phone": "+36 30 012 3456",
+    "familyName": "Farkas",
+    "givenName": "Ádám",
+    "birthDate": "1999-04-27"
+  }
+]

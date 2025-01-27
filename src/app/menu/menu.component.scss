@@ -1,0 +1,26 @@
+.menu-container {
+    height: 100vh;
+}
+
+mat-sidenav {
+    width: 250px;
+}
+
+mat-toolbar {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+#content {
+    padding: 16px;
+    background-color: white;
+}
+
+button{
+    border-radius: 0;
+    width: 100%;
+    text-align: left;
+    justify-content: flex-start;
+    font-size: large;
+}
